@@ -6,7 +6,7 @@ https://www.mathworks.com/company/newsletters/articles/tracking-objects-acquirin
 
 
 # Files
-- 031014 WT2 W-W T0.avi: example movie (works only PC)
+- 031014 WT2 W-W T0.avi: example movie (likely only works on PCs)
 - esVidTrack.fig: MATLAB GUIDE interface file
 - esVidTrack.m: MATLAB code
 - Example_Arena.jpg: screengrab from the app
