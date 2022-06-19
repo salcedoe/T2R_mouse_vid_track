@@ -11,6 +11,8 @@ https://www.mathworks.com/company/newsletters/articles/tracking-objects-acquirin
 - esVidTrack.m: MATLAB code
 - Example_Arena.jpg: screengrab from the app
 
+To launch the app, download the .FIG and .M files. Be sure to save these files in the same directory Change the MATLAB current directory to the directory containing these files and then open the .FIG file. 
+
 # Computer Specifications
 
 Software developed using MATLAB 2014a on a Macintosh computer running OS X 10.9 (Mavericks). Data collection was run on a PC computer running Windows 8.0
