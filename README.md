@@ -10,3 +10,7 @@ https://www.mathworks.com/company/newsletters/articles/tracking-objects-acquirin
 - esVidTrack.fig: MATLAB GUIDE interface file
 - esVidTrack.m: MATLAB code
 - Example_Arena.jpg: screengrab from the app
+
+# Computer 
+
+Software developed using MATLAB 2014a on a Macintosh computer running OS X 10.9 (Mavericks). Data collection was run on a PC computer running Windows 8.0
