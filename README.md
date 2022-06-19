@@ -15,4 +15,4 @@ To launch the app, download the .FIG and .M files. Be sure to save these files i
 
 # Computer Specifications
 
-Software developed using MATLAB 2014a on a Macintosh computer running OS X 10.9 (Mavericks). Data collection was run on a PC computer running Windows 8.0
+Software developed using MATLAB 2014a on a Macintosh computer running OS X 10.9 (Mavericks). Data collection was run on a PC computer running Windows 8.0. App may not work on newer versions of MATLAB. 
